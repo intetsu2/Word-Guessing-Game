@@ -14,7 +14,7 @@ t.sleep(2)
 print(f"Nice to meet you {player_name}, I hope you enjoy the game.", '\v'), t.sleep(2)
 
 # car choice
-def cars(points):
+def cars():
   points = 0
   
   while True:
