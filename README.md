@@ -1,4 +1,4 @@
-# Word-Guessing-Game
+# Simple-Word-Guessing-Game
 Word guessing game with 3 choice of games.
 
 ## Choices
@@ -8,3 +8,5 @@ Word guessing game with 3 choice of games.
 
 ### Game should look like this
 ![example](markd.jpg)
+
+## For learning purpose
